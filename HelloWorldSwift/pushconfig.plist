@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>serverURL</key>
+    <string>http://192.168.1.136:8080/ag-push/</string>
+    <key>variantID</key>
+    <string>94aee1bb-96ac-4a4e-8da2-58e917b668b3</string>
+    <key>variantSecret</key>
+    <string>12e56454-e5e6-402f-9064-6782087233a1</string>
+</dict>
+</plist>

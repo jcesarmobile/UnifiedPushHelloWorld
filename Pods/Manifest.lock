@@ -1,0 +1,22 @@
+PODS:
+  - AeroGear-Push-Swift (2.0.1)
+
+DEPENDENCIES:
+  - AeroGear-Push-Swift (from `https://github.com/aerogear/aerogear-ios-push`, branch `master`)
+
+EXTERNAL SOURCES:
+  AeroGear-Push-Swift:
+    :branch: master
+    :git: https://github.com/aerogear/aerogear-ios-push
+
+CHECKOUT OPTIONS:
+  AeroGear-Push-Swift:
+    :commit: da511affdd147cad56264c9bc10ead8e21fa06c1
+    :git: https://github.com/aerogear/aerogear-ios-push
+
+SPEC CHECKSUMS:
+  AeroGear-Push-Swift: 22125e263a1ad9c0247f6dfe04441d13c40fefa7
+
+PODFILE CHECKSUM: b2da0c0a61da79953f497c70eb697841e4187ff0
+
+COCOAPODS: 1.1.1
